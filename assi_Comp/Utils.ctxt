@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Utils
+comment1.params=prompt
+comment1.target=java.lang.String\ string(java.lang.String)
+comment2.params=prompt
+comment2.target=char\ choice(java.lang.String)
+comment3.params=prompt
+comment3.target=double\ amount(java.lang.String)
+comment4.params=prompt
+comment4.target=int\ number(java.lang.String)
+comment5.params=symbol\ value
+comment5.target=java.lang.String\ formattedValue(java.lang.String,\ double)
+comment6.params=date
+comment6.target=java.lang.String\ formattedDate(java.util.Date)
+comment7.params=date
+comment7.target=java.util.Date\ parseDate(java.lang.String)
+numComments=8
